@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild"
+		},
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild.rule"
+		},
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild-complete.rule"
+		},
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule"
+		},
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule"
+		},
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule"
+		},
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule"
+		},
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule"
+		},
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PioasmBuild"
+		],
+		"name" : "PioasmBuild"
+	}
+}

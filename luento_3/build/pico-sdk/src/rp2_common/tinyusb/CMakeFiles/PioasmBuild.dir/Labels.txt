@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild
+/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild.rule
+/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/CMakeFiles/PioasmBuild-complete.rule
+/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
+/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pico-sdk/src/rp2_common/tinyusb/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule

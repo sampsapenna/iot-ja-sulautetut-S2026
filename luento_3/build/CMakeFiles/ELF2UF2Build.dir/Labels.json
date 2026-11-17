@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/CMakeFiles/ELF2UF2Build"
+		},
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/CMakeFiles/ELF2UF2Build.rule"
+		},
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/CMakeFiles/ELF2UF2Build-complete.rule"
+		},
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule"
+		},
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule"
+		},
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule"
+		},
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule"
+		},
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule"
+		},
+		{
+			"file" : "/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ELF2UF2Build"
+		],
+		"name" : "ELF2UF2Build"
+	}
+}

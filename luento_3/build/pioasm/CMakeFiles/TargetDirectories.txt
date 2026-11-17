@@ -1,0 +1,3 @@
+/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pioasm/CMakeFiles/pioasm.dir
+/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pioasm/CMakeFiles/edit_cache.dir
+/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/pioasm/CMakeFiles/rebuild_cache.dir

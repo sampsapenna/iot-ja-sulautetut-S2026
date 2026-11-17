@@ -1,0 +1,5 @@
+/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/elf2uf2/CMakeFiles/elf2uf2.dir
+/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/elf2uf2/CMakeFiles/edit_cache.dir
+/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
+/mnt/g_home/sampsa/Opetusmateriaalit/IoT_ja_sulautetut/Luentoesimerkit_SV2026/luento_3/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
